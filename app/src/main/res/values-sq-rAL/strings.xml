@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">FinalAndroidAssignment</string>
+    <string name="welcome_info">Mire se vini, ju lutem vendosni te dhenat tuaja</string>
+    <string name="welcome">Shikoni keto destinacione te mrekullueshme</string>
+    <string name="See_more">Me shume</string>
+    <string name="log_out">Shkyçu</string>
+    <string name="read">Lexo</string>
+    <string name="voice_command">Komande me ze</string>
+    <string name="email">Email...</string>
+    <string name="password">Password...</string>
+    <string name="log_in">Kyçu</string>
+    <string name="register">Regjistrohu</string>
+    <string name="go_back">Prapa</string>
+    <string name="show_in_map">Shfaq ne harte</string>
+</resources>
