@@ -1,4 +1,4 @@
-package com.example.finalandroidassignment;
+package com.example.winterdestination;
 
 public class TouristDestination {
     private String name, description, image;

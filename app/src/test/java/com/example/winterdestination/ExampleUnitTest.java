@@ -1,4 +1,4 @@
-package com.example.finalandroidassignment;
+package com.example.winterdestination;
 
 import org.junit.Test;
 

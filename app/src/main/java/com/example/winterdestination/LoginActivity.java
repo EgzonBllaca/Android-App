@@ -1,4 +1,4 @@
-package com.example.finalandroidassignment;
+package com.example.winterdestination;
 
 import androidx.annotation.NonNull;
 import androidx.appcompat.app.AppCompatActivity;
